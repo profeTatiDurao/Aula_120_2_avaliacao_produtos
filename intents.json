@@ -52,10 +52,7 @@
     
     },
     {"tag": "videogame",
-        "patterns": ["Qual e o videogame mais atual?", "Por favor, me diga qual e o vídeogame mais recente!" , 
-                    "Voce tem algum videogame legal?"],
-        "responses": ["Eu considero CALL OF DUTY como um dos meus favoritos de todos os tempos" , 
-                    "Se voce gosta de aventura, deveria experimentar o GTA-VICE CITY"]
+        #faça o patterns e responses para video game
     
     }
 ]
